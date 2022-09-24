@@ -1,4 +1,4 @@
-yporaCrack Typora破解
+Typora Crack
 
 先安装 typora-setup-x64-1.2.4.exe ，记下安装路径
 
